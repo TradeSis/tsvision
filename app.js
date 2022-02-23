@@ -1,3 +1,4 @@
+/* sem permissão */
 
 // #A2 - TITULO
 var wTitulo = {
