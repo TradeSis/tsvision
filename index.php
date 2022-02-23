@@ -9,7 +9,7 @@
 
 	<!-- Design -->
 
-	<script type="text/javascript"             src="tsvision/app.js"></script>
+	<script type="text/javascript"             src="/ts/tsvision/app.js"></script>
 	
 
 
